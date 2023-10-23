@@ -29,6 +29,7 @@
 
 ### 8. 辅助强化圣遗物
 派懵能够辅助你迅速完成圣遗物的强化，自动取消这个过程，不用等待显示动画，节省你的大量时间。
+演示地址：https://www.bilibili.com/video/BV1yu4y1n7Ee/
 
 ### 9. 那维莱特一键重击
 演示地址：https://www.bilibili.com/video/BV1494y1t72a/
