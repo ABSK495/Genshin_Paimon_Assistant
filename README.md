@@ -133,6 +133,7 @@ webview2库下载地址：https://developer.microsoft.com/zh-cn/microsoft-edge/w
 
 ### 15. 自动砍树
 演示地址：https://www.bilibili.com/video/BV1vr421872M/
+
 自动砍树属于单次执行功能，会屏蔽其他实时通用功能，使用完毕后需要取消勾选，并且禁止和其他单次执行功能同时勾选。
 
 勾选自动砍树后，使用芭芭拉装备须弥砍树道具王树瑞佑，输入砍树次数并更新，在游戏内按下V键即可开始循环砍树。
